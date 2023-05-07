@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "lb-ssr-demo-cms",
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
